@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <div className='contenedor-principal'> 
-      <h1>No todo lo que brilla es oro</h1>
+      <h1>Me encanató esta App</h1>
       <Testimonio 
         nombre='Susy Narvaez'
         pais='Suecia'
